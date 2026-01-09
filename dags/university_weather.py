@@ -10,7 +10,7 @@ from airflow.exceptions import AirflowSkipException
 from datetime import datetime, timedelta
 
 
-# 1. ดึงข้อมูลจาก API
+# 1. get data API
 
 def get_weather_data(**context):
     print("=== Start get_weather_data ===")
