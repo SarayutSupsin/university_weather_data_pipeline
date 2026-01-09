@@ -1,0 +1,7 @@
+{
+    "python-envs.defaultEnvManager": "ms-python.python:system",
+    "python-envs.pythonProjects": [],
+    "python.analysis.extraPaths": [
+        "C:/Users/HP/AppData/Local/Programs/Python/Python311/Lib/site-packages"
+    ]
+}
